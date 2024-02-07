@@ -1,0 +1,36 @@
+.banner{
+  background-image: url("https://static.vecteezy.com/system/resources/previews/001/040/178/original/abstract-gradient-background-vector.jpg");
+  height: 50vh;
+  width: 100%;
+  /* background-repeat: no-repeat; */
+
+  margin-top: 20px;
+
+}
+
+.course {
+  position: relative;
+  margin-top: 10px;
+}
+
+.nav-item:hover {
+  background-color: cadetblue;
+}
+
+.card {
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 15px;
+  margin-top: 20px;
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: nowrap;
+  margin-top: 20px;
+  margin-left: 35px;
+}
+
+.route-container {
+  margin-top: 30px;
+}
