@@ -30,6 +30,9 @@ function ArtificicalIntelligence() {
       link:"/ai/tensorflow"
     }
   ]
+
+  //Maping the component
+  
   return (
     <div className='row'>
         {
