@@ -28,7 +28,7 @@ import TensorFlow from './TensorFlow';
 import NavbarComp from './NavbarComp';
 import Footer from './Footer';
 
-
+//Routing the components
 
 function App() {
 
