@@ -64,6 +64,7 @@ function Dashboard() {
             </div>
             <Outlet />
         </div>
+    //outlet 
     )
 }
 
