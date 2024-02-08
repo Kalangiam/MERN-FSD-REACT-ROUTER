@@ -37,7 +37,7 @@ function Course() {
             <Container>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav" >
-                    <Nav className="collapse navbar-collapse justify-content-center">
+                    <Nav className="navbar-collapse justify-content-center">
                         <Nav.Link className="nav-item active" href="/ml">Machine Learning</Nav.Link>
                         <Nav.Link className="nav-item active" href="/fs">Full Stack Development</Nav.Link>
                         <Nav.Link className="nav-item active" href="/ai">Artificial Intelligence</Nav.Link>
