@@ -1,3 +1,5 @@
+I have achieved this task by creating a reactvite app. Inside that I created several components where each component contains its specific course features. The Route hold its unique path for each component. 
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
