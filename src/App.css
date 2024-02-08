@@ -16,7 +16,6 @@
 .nav-item:hover {
   background-color: cadetblue;
 }
-
 .card {
   display: flex;
   flex-wrap: nowrap;
